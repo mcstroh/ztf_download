@@ -1,0 +1,11 @@
+Job ID: 6911815
+Cluster: quest
+User/Group: mcs8686/mcs8686
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 52
+CPU Utilized: 1-06:24:42
+CPU Efficiency: 2.77% of 45-17:44:04 core-walltime
+Job Wall-clock time: 21:06:37
+Memory Utilized: 12.43 GB
+Memory Efficiency: 7.87% of 157.93 GB

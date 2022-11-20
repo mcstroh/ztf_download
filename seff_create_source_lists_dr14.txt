@@ -1,0 +1,10 @@
+Job ID: 6516133
+Cluster: quest
+User/Group: mcs8686/mcs8686
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 23:30:34
+CPU Efficiency: 82.76% of 1-04:24:22 core-walltime
+Job Wall-clock time: 1-04:24:22
+Memory Utilized: 17.20 GB
+Memory Efficiency: 34.39% of 50.00 GB

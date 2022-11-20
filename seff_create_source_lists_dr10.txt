@@ -1,0 +1,11 @@
+Job ID: 4426667
+Cluster: quest
+User/Group: mcs8686/mcs8686
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 52
+CPU Utilized: 1-07:21:10
+CPU Efficiency: 2.95% of 44-08:20:20 core-walltime
+Job Wall-clock time: 20:28:05
+Memory Utilized: 12.30 GB
+Memory Efficiency: 7.79% of 157.93 GB
