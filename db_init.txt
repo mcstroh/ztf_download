@@ -1,0 +1,14 @@
+CREATE TABLE dr14 (
+    objectid bigint primary key,
+    filterid smallint NOT NULL,
+    fieldid smallint NOT NULL,
+    rcid smallint NOT NULL,
+    ra double precision NOT NULL,
+    decl double precision NOT NULL,
+    nepochs integer NOT NULL,
+    file_name varchar(33)
+);
+
+CREATE EXTENSION q3c;
+
+CREATE INDEX on dr14 (q3c_ang2ipix(ra, decl));
